@@ -1,0 +1,33 @@
+---
+court: "Wisconsin Supreme Court"
+decided: "1849-01"
+citations: ["1 Chand. 166", "2 Pin. 204"]
+reporter: "chand"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Wisconsin vs. Leopold Delue."]
+source_url: "https://static.case.law/chand/1/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8712680
+---
+
+# State v. Delue
+
+## Majority (Jackson, J.)
+
+By the court
+Jackson, J.
+This was an indictment found at the September term of the Circuit Court for Sheboygan County,, against Leopold Delue, and which contains the following count, to wit:
+“ The Jurors of the Grand Jury of the county of She-boygan aforesaid, upon their oath present: that Leopold Delue, la te of the village of Sheboygan, in the county of Sheboygan aforesaid, on the eleventh dav of September, in the year 18.48, at the village of Shehoygan, in the county of Sheboygan aforesaid, ope hog, of the value of five dollars, of the goods and chatties of one Christian Mohr, then and there being, feloniously, unlawfully and maliciously did kill, against the form in the Statute in such case made and provided, and against the peace and dignity of the State of Wisconsin.”
+To this indictment a general demurrer was interposed, which was sustained by the, Court, and the defendant, who had been arrested, was discharged from custody.
+The only point to be decided in this cause is, as to the sufficiency of the indictment, which we cannot but regard as fatally defective.
+It purports to be an indictment under our Statute, yet varies from it in a material allegation. The Statute declares that “ every person who shall wilfully and maliciously kill, maim or disfigure any horses, cattle or other beasts of another person, shall be punished by imprisonment in the county jail not more than two. years, nor less than three months, or by fine not exceeding five hundred dollars, nor less than fifty dollars.”
+The indictment charges that the defendant “ feloni-ously, unlawfully and maliciously did kill, &c.” Such a departure from the language of the Statute, in charging the offence committed, is unauthorized by any of the standard authorities upon criminal law. And although the ancient strictness in framing indictments, is, in many instances relaxed, yet where an indictment is grounded upon such a Statute, we think it a safer rule of practice to pursue strictly the words of the Statute in charging the offence. Where a Statute, therefore, defines the offence to consist in “ wilfully and maliciously ” killing, &c., it' must be expressly charged in the indictment that the of-fence was ‘‘wilfully and maliciously committed;” and the omission, of either the words “ wilfully ” or “ maliciously,” will be fatal, Arch. Crim. Plead., 62.
+Upon the same principle it has also been held, that “ an indictment upon Statute 7 and 8, G. 4, C. 30, S. 2, for fe-loniously, voluntarily and maliciously setting fire to a barn, was holden bad, because the words of the Statute are, “ unlawfully and maliciously.” Arch. Crim. Plead., 62.
+Another point, however, has been raised in the argument of this case, which we deem it important to notice for the purpose of settling the practice in framing indictments; although the present must be held bad for the reasons which we have already stated.
+It is insisted that, inasmuch as the Constitution of this State requires (Art. 1th on the Judiciary, Sec. 17) that, “ all criminal prosecutions shall be carried on in the name and by the authority of the State,” that this indictment is defective in not alleging affirmatively that it is so prosecuted.
+We do not think that it was designed by this provision to require, either in the caption or in the body of the indictment, an affirmative allegation in the language of the Constitution; although such, perhaps, might be a more formal and appropriate practice. It is doubtful, however, whether this provision of the Constitution is applicable to indictments, which are but the presentments of Grand Juries, embodying, in legal form, the result of their inquiries, for the information of the Court. They are the ■basis upon which process issues against the offender; and víhich process may be considered as the first step in the prosecution specified in the Constitution. This process very properly issues in the name arid by the authority of the State. But the indictment being but a preliminary proceeding, leading to, rather than constituting the prose1-cution, need not bear on its face the evidence of having been found by a Grand Jury, acting expressly in the name ■of the State. It is sufficient, in respect to the point 'objected to, if the venue be laid in some county within the State, and it be substantially set forth therein, that the Grand Jurors are good and lawful men, duly empannelled, charged and sworn to inquire in and for the body of such county.
+We think-, however, that as the Constitution expressly requires that all indictments shall conclude “ against the •peace and dignity of the State,” this is sufficient to -show that the proceedings of the Grand Jury are conducted in the name and by the authority of the State; and that so far 'as the form of the indictment is concerned, the insertion of that clause is a 'sufficient assertion of State sovereignty, and all that the framers of the Constitution contemplated in that respect. More particularity than this cannot be neces'sary to comply with both 'the letter and the spirit of the Constitution.
+These positions being, as we are satisfied, correct, it follows as a necessary conclusion, that this indictment, however defective in other respects, is not liable to the abjection insisted on in the argument.
+Judgment affirmed.
+The Chief Justice remarked, (Larrabee, J., concurring) that he still thought-, as at the Circuit-, that the indictment was good for nothing; and therefore concurred in affirming the judgment. But he could by no means assent to all the doctrines of the majority of the Court. In his op*-inion it was indispensable that it should appear from the Indictment itself, that it was found by the authority, and. was prosecuted in the name, of the Sovereign. So were all the precedents, and all the authorities, at common law-; to say nothing of our express Constitutional provision. The idea that an indictment is but the basis of a prosecution, and that the process or bench-warrant, issuing upon it, is the first step in a criminal proceeding, was to him a novel one; and which he could not sanction. It might-,, and probably would, be attended with serious embarrassments.

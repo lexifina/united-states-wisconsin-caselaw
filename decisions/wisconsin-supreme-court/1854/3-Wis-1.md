@@ -1,7 +1,8 @@
 ---
 court: "Wisconsin Supreme Court"
 decided: "1854-06"
-citations: ["3 Wis. 1", "3 Wis. 157"]
+decided_precision: "month"
+citations: ["3 Wis. 1"]
 reporter: "wis"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["In the matter of the petition of SHERMAN M. BOOTH, for a Writ of Habe
 source_url: "https://static.case.law/wis/3/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11639147
-cites_cases: ["1 Wheat. 304", "1 Wheat. 326", "1 Wheaton 305", "1 Wheaton 362", "10 Wheat. 199", "12 Wend. 311", "14 Howard, 18", "16 Pet. Rep. 622", "16 Peters 539", "16 Peters 611", "18 Pick. 139", "2 Dall. 386", "2 Pick. 11", "2 Wheat. 259", "3 Pet 446", "4 Munf. 1", "4 Wheat. 122", "5 Cranch, 185", "5 How. 13", "5 Howard, 18", "5 Howard, 215", "5 Wheat. 1", "5 Wheat. 48", "6 Wheat. 407", "7 Cush. 285", "8 How. 156", "8 Wash. C. C. Rep. 316", "9 John. 67"]
+cites_cases: ["1 Wheat. 326", "1 Wheaton 305", "1 Wheaton 362", "12 Wend. 311", "14 Howard, 18", "16 Pet. Rep. 622", "16 Peters 539", "16 Peters 611", "18 Pick. 139", "2 Dall. 386", "2 Pick. 11", "2 Wheat. 259", "3 Pet 446", "4 Wheat. 122", "5 Howard, 18", "5 Howard, 215", "5 Wheat. 1", "5 Wheat. 48", "6 Wheat. 407", "7 Cush. 285", "8 Wash. C. C. Rep. 316", "9 John. 67"]
 ---
 
 # In re Booth

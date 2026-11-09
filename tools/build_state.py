@@ -162,6 +162,11 @@ def compare_text(r: dict) -> str:
     return t if t.strip() else (r.get('head_matter') or '')
 
 
+def _triples(t: str) -> set:
+    w = re.findall(r'[a-z0-9]+', t.lower())
+    return {tuple(w[i:i + 3]) for i in range(len(w) - 2)}
+
+
 def same_text(a: str, b: str) -> bool:
     """Two texts of one decision: two reporters' OCR of one opinion (difflib ratio >= 0.6 over the first 4,000
     characters) or one inside the other (the first 300 characters of either found in the other). Two different
@@ -171,6 +176,16 @@ def same_text(a: str, b: str) -> bool:
         return not a and not b
     if a[:300] in b or b[:300] in a:
         return True
+    # a fast answer from word triples where it is clear (calibrated on the deep check's 150 sampled merges: pairs under
+    # ratio 0.6 share at most 0.29 of their triples, pairs over it at least 0.056 when both are long); the character
+    # ratio, which is quadratic, only between
+    sa, sb = _triples(a[:4000]), _triples(b[:4000])
+    if len(sa) >= 50 and len(sb) >= 50:
+        j = len(sa & sb) / len(sa | sb)
+        if j >= 0.5:
+            return True
+        if j < 0.03:
+            return False
     sm = difflib.SequenceMatcher(None, a[:4000], b[:4000], autojunk=False)
     return sm.real_quick_ratio() >= 0.6 and sm.quick_ratio() >= 0.6 and sm.ratio() >= 0.6
 
